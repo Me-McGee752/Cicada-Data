@@ -1,0 +1,13 @@
+meeting notes
+
+make pressing chart button refrerh chart
+mac upload
+
+make it so theres a popup to generate a todo list that asks for work times.
+
+
+
+fix the hive
+notifications
+todo list
+
